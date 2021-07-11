@@ -23,5 +23,6 @@ namespace Merakis
                     webBuilder.UseStartup<Startup>();
                 });
         //this is a test
+        //This is other test for a new brach
     }
 }
