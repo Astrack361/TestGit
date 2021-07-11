@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guill\\source\\repos\\Merakis\\Merakis\\Merakis.csproj": {}
+    "D:\\Git\\Merakis\\Merakis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guill\\source\\repos\\Merakis\\Merakis\\Merakis.csproj": {
+    "D:\\Git\\Merakis\\Merakis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guill\\source\\repos\\Merakis\\Merakis\\Merakis.csproj",
+        "projectUniqueName": "D:\\Git\\Merakis\\Merakis.csproj",
         "projectName": "Merakis",
-        "projectPath": "C:\\Users\\guill\\source\\repos\\Merakis\\Merakis\\Merakis.csproj",
+        "projectPath": "D:\\Git\\Merakis\\Merakis.csproj",
         "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guill\\source\\repos\\Merakis\\Merakis\\obj\\",
+        "outputPath": "D:\\Git\\Merakis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
